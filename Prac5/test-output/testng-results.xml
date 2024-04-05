@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="297" started-at="2024-04-05T16:12:09Z" finished-at="2024-04-05T16:12:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="297" started-at="2024-04-05T16:12:09Z" finished-at="2024-04-05T16:12:09Z">
+      <class name="cstud">
+        <test-method status="PASS" signature="f1()[pri:0, instance:cstud@152912f]" name="f1" is-config="true" duration-ms="24" started-at="2024-04-05T16:12:09Z" finished-at="2024-04-05T16:12:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+        <test-method status="PASS" signature="textImportexport1()[pri:0, instance:cstud@152912f]" name="textImportexport1" duration-ms="228" started-at="2024-04-05T16:12:09Z" finished-at="2024-04-05T16:12:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textImportexport1 -->
+      </class> <!-- cstud -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
